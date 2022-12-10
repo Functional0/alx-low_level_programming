@@ -2,6 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
+/*
+ * main - checks the code
+ */
 int main(void)
 {
 	int n;
