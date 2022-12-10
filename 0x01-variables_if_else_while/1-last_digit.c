@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 /*
- * mwin - checks the code
+ * main - checks the code
+ *
+ * return: always 0
  */
 int main(void)
 {
