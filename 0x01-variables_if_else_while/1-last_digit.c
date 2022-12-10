@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - Determines the last digit of n:
  * whether it is greater than 5,
  * less than 6 or 0
