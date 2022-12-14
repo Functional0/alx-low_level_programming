@@ -1,19 +1,20 @@
 #include "main.h"
 
 /**
- * main - This program prints _putchar to 
+ * main - This program prints _putchar to
  * the standard output
  *
- * return: always 0
+ * return: always return 0
  */
 int main(void)
 {
-	int i;
+	int i = 0;
 	char _print[] = "_putchar";
 
-	for (i = 0; i < 8; i++)
+	while (i < 8)
 	{
 		_putchar(_print[i]);
+		i++;
 	}
 	_putchar('\n');
 	return (0);
