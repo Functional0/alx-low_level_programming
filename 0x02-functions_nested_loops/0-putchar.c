@@ -3,8 +3,7 @@
 /**
  * main - This program prints _putchar to
  * the standard output
- *
- * return: always return 0
+ * Return: Always return 0
  */
 int main(void)
 {
