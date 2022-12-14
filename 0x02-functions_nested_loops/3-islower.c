@@ -3,11 +3,11 @@
 /**
  * _islower - checks for lowercase letter
  * @c: argument
- * return: 1 if true or 0 if false
+ * Return: 1 if true or 0 if false
  */
 int _islower(int c)
 {
-	if (c < 123 || c > 96)
+	if (c < 123 && c > 96)
 	{
 		return (1);
 	}
@@ -15,6 +15,5 @@ int _islower(int c)
 	{
 		return (0);
 	}
-	putchar('\n');
+	_putchar('\n');
 }
-
