@@ -3,7 +3,7 @@
 /**
  * print_sign - prints the sign of argument
  * @n: the argument
- * return: 1 if successfull or 0 if not
+ * Return: 1 if successfull or 0 if not
  */
 int print_sign(int n)
 {
