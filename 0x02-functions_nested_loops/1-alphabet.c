@@ -4,9 +4,9 @@
  * print_alphabet - It prints lowercase 
  * letters
  *
- * return: 0
+ * Return: Always 0.
  */
-void print_alhabet(void)
+void print_alphabet(void)
 {
 	int alp = 97;
 
@@ -16,5 +16,4 @@ void print_alhabet(void)
 		alp++;
 	}
 	_putchar('\n');
-	return (0);
 }
