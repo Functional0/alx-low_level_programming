@@ -3,7 +3,7 @@
 /**
  * _abs - This programme compute the
  * absolute value
- * Return: 0
+ * Return: 1
  */
 int _abs(int r)
 {
