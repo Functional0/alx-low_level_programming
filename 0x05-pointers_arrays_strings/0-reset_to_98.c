@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * reset_to_97 - changes value in memory
+ * reset_to_98 - changes value in memory
  *
  *
  * Return: 0
