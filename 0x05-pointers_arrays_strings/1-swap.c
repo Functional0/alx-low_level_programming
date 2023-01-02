@@ -2,7 +2,8 @@
 
 /**
  * swap_int - checks swaps two int value in memory
- *
+ * @a: int
+ * @b: integer
  * 
  * Return: 0
  */
